@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
 
-<h3> :man: &nbsp;Sobre mim </h3>
+<h3> 🧑🏻 &nbsp;Sobre mim </h3>
 
 - 😀 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Ciências da Computação no <a href="http://www.fai.com.br/portal/">UNIFAI</a>.
