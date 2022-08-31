@@ -25,4 +25,4 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Igor Pereira da Silva](https://img.shields.io/badge/-Igor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/igor-pereira-da-silva-980b30175/)
+[![Linkedin: Igor Pereira da Silva](https://img.shields.io/badge/-Igor%20Pereira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/igor-pereira-da-silva-980b30175/)
