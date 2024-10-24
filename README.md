@@ -2,7 +2,6 @@
 
 - 😀 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando Ciências da Computação no <a href="http://www.fai.com.br/portal/">UNIFAI</a>.
-- 💼 &nbsp; Trabalhando como analista de suporte II na <a href="https://www.it2b.com.br/">IT2B</a>
 - 🌱 &nbsp; Aprendendo mais sobre JavaScript, Node, React e React Native.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
